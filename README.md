@@ -1,0 +1,2 @@
+# HaskellLabs
+Functional programming labs
